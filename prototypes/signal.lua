@@ -10,7 +10,7 @@ data:extend({
     type = "virtual-signal",
     name = "pd-pollution",
     icon =  "__pollution-detector__/graphics/icons/pollution.png",
-    icon_size = 32,
+    icon_size = 64,
     subgroup = "sensor-signals",
     order = "x[sensor-signals]-aa"
   },
