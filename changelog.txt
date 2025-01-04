@@ -1,8 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.7.1
+Date: 2025-01-04
+  Changes:
+    - Fix global & storage entity signal update problem.
+    - If old entities have signal update problem, change any startup mod setting (e.g. Update Interval) and reload your game.
+---------------------------------------------------------------------------------------------------
 Version: 0.7.0
 Date: 2025-01-04
   Changes:
-    - All the graphics redone (snouz)
+    - All the graphics redone (snouz).
 ---------------------------------------------------------------------------------------------------
 Version: 0.6.4
 Date: 2024-10-22

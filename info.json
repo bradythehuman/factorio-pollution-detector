@@ -1,6 +1,6 @@
 {
   "name": "pollution-detector",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "title": "Pollution detector",
   "author": "Schorty, Optera, WildBraas, cagricelebi, snouz",
   "description": "Adds a new entity for detecting pollution",
