@@ -4,7 +4,7 @@ data:extend({
     name = "pollution-detection",
     icon = "__pollution-detector__/graphics/technology/pollution-detection.png",
     icon_size = 256,
-    prerequisites = {"plastics", "advanced-circuit"},
+    prerequisites = {"circuit-network"},
     effects =
     {
       {
